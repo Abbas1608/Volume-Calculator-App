@@ -34,7 +34,7 @@ class CyliderAvtivity : AppCompatActivity() {
 
             val volumofCylinder = 3.14*r1* 2*h
 
-            volumeofC.text = "Volume of cylinder =$volumofCylinder m^3."
+            volumeofC.text = " Volume of Cylinder = 3.14 X $r1 X (2X$h)  \n Volume of cylinder =$volumofCylinder m^3."
         }
 
     }

@@ -31,7 +31,7 @@ class SphereActivity : AppCompatActivity() {
 
             var Volume = (4/3) * 3.14 * r*r*r
 
-            result.text = " Volume of Sphere = $Volume m^3."
+            result.text = " Volume of Sphere = (4/3) X 3.14 X $r X$r X $r \n Volume of Sphere = $Volume m^3."
         }
     }
 }

@@ -36,7 +36,7 @@ class PrismAvtivity : AppCompatActivity() {
 
             var VOFprism = lp * B
 
-            ResultOfPrism.text = "Volume of Triangle Prism = $VOFprism m^3."
+            ResultOfPrism.text = " volume of Triangle Prism = $lp X $B \n Volume of Triangle Prism = $VOFprism m^3."
 
         }
     }

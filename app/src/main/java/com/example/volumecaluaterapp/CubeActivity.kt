@@ -32,7 +32,7 @@ class CubeActivity : AppCompatActivity() {
             var L = Integer.parseInt(Length)
 
             var VolumeofCube = L*L*L
-            CubeResult.text = "Volume of Cune = $VolumeofCube m^3."
+            CubeResult.text = " volume of Cube = $L X $L X $L  \n Volume of Cube = $VolumeofCube m^3."
         }
     }
 }
